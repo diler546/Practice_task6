@@ -4,23 +4,6 @@ using System.Threading.Channels;
 
 namespace Magician
 {
-    //class Character
-    //{
-    //    private int maxHelth = new Random().Next(0,100);
-    //    private int currentHelth;
-
-    //    public void TakeDamage(int damage)
-    //    {
-    //        currentHelth -= damage;
-
-    //        if (currentHelth <= 0)
-    //        {
-    //            Die();
-    //        }
-
-    //    }
-
-    //}
 
     class Player
     {
